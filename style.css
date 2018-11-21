@@ -80,17 +80,19 @@ min-height:100%;
 }
 
 .top {
+	/* background: #000;
+	opacity: .7; */
 	background-image: url(images/Radisson-Blue-Kigali.jpg);
 	 background-repeat: no-repeat;
 	 background-size: cover;
-    background-position: 0%;
+		background-position: 0%;
 }
 .form {
 	padding: 30px;
 	background: #000;
 	border-radius: 5px;
 	margin: 30px;
-	opacity: 0.5;
+	opacity: .9;
 	color:white;
 }
 .form h4 {
